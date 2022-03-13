@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjau850
 - 👀 I’m interested in ...learning new languages to create fun projects!  
-- 🌱 I’m currently learning ...Python 
+- 🌱 I’m currently learning ...SPSS
 
 
 Languages I know: LabVIEW, MATLAB, R 
